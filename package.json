@@ -1,0 +1,9 @@
+{
+  "name": "cypress2",
+  "version": "0.0.0",
+  "description": "Primeri za termin Cypress 2",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
